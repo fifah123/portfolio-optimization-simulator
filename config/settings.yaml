@@ -1,0 +1,14 @@
+data:
+  default_start_date: "2020-01-01"
+  default_end_date: null
+
+  price_column: "Close"
+
+  trading_days_per_year: 252
+
+app:
+  title: "Portfolio Optimization & Diversification Simulator"
+  page_icon: "📊"
+
+analytics:
+  risk_free_rate: 0.04

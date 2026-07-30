@@ -1,0 +1,270 @@
+assets:
+
+  # =========================
+  # Banking
+  # =========================
+
+  BBCA.JK:
+    name: Bank Central Asia
+    asset_class: Equity
+    sector: Banking
+
+  BBRI.JK:
+    name: Bank Rakyat Indonesia
+    asset_class: Equity
+    sector: Banking
+
+  BMRI.JK:
+    name: Bank Mandiri
+    asset_class: Equity
+    sector: Banking
+
+  BBNI.JK:
+    name: Bank Negara Indonesia
+    asset_class: Equity
+    sector: Banking
+
+  BRIS.JK:
+    name: Bank Syariah Indonesia
+    asset_class: Equity
+    sector: Banking
+
+
+  # =========================
+  # Telecommunications
+  # =========================
+
+  TLKM.JK:
+    name: Telkom Indonesia
+    asset_class: Equity
+    sector: Telecommunications
+
+  ISAT.JK:
+    name: Indosat
+    asset_class: Equity
+    sector: Telecommunications
+
+  EXCL.JK:
+    name: XL Axiata
+    asset_class: Equity
+    sector: Telecommunications
+
+  MTEL.JK:
+    name: Dayamitra Telekomunikasi
+    asset_class: Equity
+    sector: Telecommunications
+
+  TOWR.JK:
+    name: Sarana Menara Nusantara
+    asset_class: Equity
+    sector: Telecommunications
+
+
+  # =========================
+  # Oil & Gas / Energy
+  # =========================
+
+  PGAS.JK:
+    name: Perusahaan Gas Negara
+    asset_class: Equity
+    sector: Energy
+
+  AKRA.JK:
+    name: AKR Corporindo
+    asset_class: Equity
+    sector: Energy
+
+  MEDC.JK:
+    name: Medco Energi Internasional
+    asset_class: Equity
+    sector: Energy
+
+  ELSA.JK:
+    name: Elnusa
+    asset_class: Equity
+    sector: Energy
+
+  ENRG.JK:
+    name: Energi Mega Persada
+    asset_class: Equity
+    sector: Energy
+
+
+  # =========================
+  # Mining
+  # =========================
+
+  ANTM.JK:
+    name: Aneka Tambang
+    asset_class: Equity
+    sector: Mining
+
+  PTBA.JK:
+    name: Bukit Asam
+    asset_class: Equity
+    sector: Mining
+
+  INCO.JK:
+    name: Vale Indonesia
+    asset_class: Equity
+    sector: Mining
+
+  MDKA.JK:
+    name: Merdeka Copper Gold
+    asset_class: Equity
+    sector: Mining
+
+  ADRO.JK:
+    name: Alamtri Resources Indonesia
+    asset_class: Equity
+    sector: Mining
+
+
+  # =========================
+  # Consumer Goods
+  # =========================
+
+  UNVR.JK:
+    name: Unilever Indonesia
+    asset_class: Equity
+    sector: Consumer Defensive
+
+  ICBP.JK:
+    name: Indofood CBP
+    asset_class: Equity
+    sector: Consumer Defensive
+
+  INDF.JK:
+    name: Indofood Sukses Makmur
+    asset_class: Equity
+    sector: Consumer Defensive
+
+  MYOR.JK:
+    name: Mayora Indah
+    asset_class: Equity
+    sector: Consumer Defensive
+
+  KLBF.JK:
+    name: Kalbe Farma
+    asset_class: Equity
+    sector: Healthcare
+
+
+  # =========================
+  # Automotive
+  # =========================
+
+  ASII.JK:
+    name: Astra International
+    asset_class: Equity
+    sector: Consumer Cyclical
+
+  AUTO.JK:
+    name: Astra Otoparts
+    asset_class: Equity
+    sector: Consumer Cyclical
+
+  GJTL.JK:
+    name: Gajah Tunggal
+    asset_class: Equity
+    sector: Consumer Cyclical
+
+  IMAS.JK:
+    name: Indomobil Sukses Internasional
+    asset_class: Equity
+    sector: Consumer Cyclical
+
+  SMSM.JK:
+    name: Selamat Sempurna
+    asset_class: Equity
+    sector: Consumer Cyclical
+
+
+  # =========================
+  # Infrastructure & Construction
+  # =========================
+
+  JSMR.JK:
+    name: Jasa Marga
+    asset_class: Equity
+    sector: Infrastructure
+
+  WIKA.JK:
+    name: Wijaya Karya
+    asset_class: Equity
+    sector: Infrastructure
+
+  WSKT.JK:
+    name: Waskita Karya
+    asset_class: Equity
+    sector: Infrastructure
+
+  PTPP.JK:
+    name: Pembangunan Perumahan
+    asset_class: Equity
+    sector: Infrastructure
+
+  WTON.JK:
+    name: Wijaya Karya Beton
+    asset_class: Equity
+    sector: Infrastructure
+
+
+  # =========================
+  # Technology
+  # =========================
+
+  GOTO.JK:
+    name: GoTo Gojek Tokopedia
+    asset_class: Equity
+    sector: Technology
+
+  BUKA.JK:
+    name: Bukalapak.com
+    asset_class: Equity
+    sector: Technology
+
+  EMTK.JK:
+    name: Elang Mahkota Teknologi
+    asset_class: Equity
+    sector: Technology
+
+  DCII.JK:
+    name: DCI Indonesia
+    asset_class: Equity
+    sector: Technology
+
+  MLPT.JK:
+    name: Multipolar Technology
+    asset_class: Equity
+    sector: Technology
+
+
+  # =========================
+  # Property & Real Estate
+  # =========================
+
+  CTRA.JK:
+    name: Ciputra Development
+    asset_class: Equity
+    sector: Real Estate
+
+  BSDE.JK:
+    name: Bumi Serpong Damai
+    asset_class: Equity
+    sector: Real Estate
+
+  PWON.JK:
+    name: Pakuwon Jati
+    asset_class: Equity
+    sector: Real Estate
+
+  SMRA.JK:
+    name: Summarecon Agung
+    asset_class: Equity
+    sector: Real Estate
+
+  ASRI.JK:
+    name: Alam Sutera Realty
+    asset_class: Equity
+    sector: Real Estate

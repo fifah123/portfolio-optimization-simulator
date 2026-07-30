@@ -118,16 +118,10 @@ This project addresses the problem using portfolio optimization techniques based
 ## 🎥 Application Demo
 
 <p align="center">
-  <img 
-    src="docs/assets/demo.gif" 
-    alt="Portfolio Optimization Simulator Demo"
-    width="900"
-  >
+  <img src="./docs/assets/jam-video.gif" alt="Portfolio Optimization Simulator Demo" width="900">
 </p>
 
-<p align="center">
-  <i>Interactive Streamlit dashboard for Indonesian stock portfolio analysis and optimization.</i>
-</p>
+<img src="./docs/assets/jam-video.gif" alt="Portfolio Optimization Simulator Demo" width="900">
 
 ---
 

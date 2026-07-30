@@ -121,8 +121,6 @@ This project addresses the problem using portfolio optimization techniques based
   <img src="./docs/assets/jam-video.gif" alt="Portfolio Optimization Simulator Demo" width="900">
 </p>
 
-<img src="./docs/assets/jam-video.gif" alt="Portfolio Optimization Simulator Demo" width="900">
-
 ---
 
 # 🏗️ System Architecture
